@@ -32,7 +32,7 @@ Write out the relationships using has_many, belongs_to and has_many_through. Cre
   - .all
     - should return an array of all desserts
 
-#### Ingredients
+#### Ingredient
   - #dessert
     - should return a dessert object for that ingredient
   - #bakery
